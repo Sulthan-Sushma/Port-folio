@@ -62,7 +62,7 @@ const About = () => {
           {/* ✅ Profile Picture */}
           <div className="hidden md:block">
             <img
-              src="public/sushu.jpg" 
+              src="/sushu.jpg" 
               alt="Sulthan Sushma"
               className="w-48 h-48 rounded-full object-cover object-center shadow-lg neon-border mx-auto"
 
